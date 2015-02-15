@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Google Maps to Waze</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="intent_not_received">ERROR: Intent not received</string>
+    <string name="intent_contains_not_data">ERROR: Intent contains no data</string>
 </resources>
