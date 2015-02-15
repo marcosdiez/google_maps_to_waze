@@ -1,6 +1,6 @@
 
 
-This open source software solves a limitation in the Waze GPS app by allowing it to open (most) Google Maps URL.
+This open source software solves a limitation in the Waze GPS app by allowing it to open (most) Google Maps URLs.
 
 I wrote it because was annoyed with the bug they did not fix this bug in almost a year.
 So I solved the problem myself.
